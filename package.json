@@ -1,0 +1,28 @@
+{
+  "name": "vercelshowcaseservingstaticfiles",
+  "version": "1.0.0",
+  "description": "Vercel showcase serving static files",
+  "keywords": [
+    "vercel",
+    "static",
+    "files"
+  ],
+  "homepage": "https://github.com/anderslatif/VercelShowcaseServingStaticFiles#readme",
+  "bugs": {
+    "url": "https://github.com/anderslatif/VercelShowcaseServingStaticFiles/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anderslatif/VercelShowcaseServingStaticFiles.git"
+  },
+  "license": "MIT",
+  "author": "Anders Latif",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
